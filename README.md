@@ -83,8 +83,8 @@ return redirect(url)
 
 - 参数传递：“点击此处查看详情”超链接是通过href="{{url_for('index')}}反解析，对应到@app.route（‘/index’）访问详情页。用户通过不同选择返回不同的页面，由于每个图表需要传递不同的the_title标题 和 the_word文字描述等每张图表特有的数值，故代码无法实现重复利用。后端通过赋值，传递参数到前端{{the_title}} {{the_word}} 等变量。
 
-###### 
-Url=“/a_selector”“/b_selector”“c_selector”“/d_selector”“/e_selector”“/f_selector”“/g_selector”“h_selector”“/j_selector”“/x_selector”
+
+###### url=“/a_selector”“/b_selector”“c_selector”“/d_selector”“/e_selector”“/f_selector”“/g_selector”“h_selector”“/j_selector”“/x_selector”
 对应到页面以base.html为基模板继承的： a.html 、b.html 、c.html 、d.html 、e.html 、f.html 、g.html 、h.html、j.html 、x.html
 
 - 页面描述：该页面返回用户筛选的结果,由于数据并不复杂，实际作用不大。
