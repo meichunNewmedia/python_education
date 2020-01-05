@@ -10,7 +10,11 @@
 
 [py文件](https://github.com/meichunNewmedia/python_education/blob/master/education.py)
 
-pythonanywhere：[http://meichun.pythonanywhere.com/](http://meichun.pythonanywhere.com/)
+pythonanywhere：
+[http://meichun.pythonanywhere.com/](http://meichun.pythonanywhere.com/)
+
+项目详情
+[了解更多](https://github.com/meichunNewmedia/python_education/blob/master/details.md)
 
 
 ##### 主要内容包括：项目背景、数据来源、可视化视图、研究结果四个部分
