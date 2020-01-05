@@ -4,7 +4,9 @@
 
 代码Github :
 
-[代码](https://github.com/meichunNewmedia/python_education/blob/master/final.zip)
+[所有代码](https://github.com/meichunNewmedia/python_education/blob/master/final.zip)
+[PY文件](https://github.com/meichunNewmedia/python_education/blob/master/education.py)
+[html文件](https://github.com/meichunNewmedia/python_education/blob/master/HTML.zip)
 
 pythonanywhere：
 [http://meichun.pythonanywhere.com/](http://meichun.pythonanywhere.com/)
