@@ -2,7 +2,7 @@
 
 ## 主题：教育经费以及收入差距对教育需求造成的影响
 
-代码Github URL :
+代码Github :
 
 [HTML文件](https://github.com/meichunNewmedia/python_education/blob/master/HTML.zip)
 
