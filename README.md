@@ -4,11 +4,7 @@
 
 代码Github :
 
-[HTML文件](https://github.com/meichunNewmedia/python_education/blob/master/HTML.zip)
-
-[源数据文件（csv）](https://github.com/meichunNewmedia/python_education/blob/master/%E6%BA%90%E6%95%B0%E6%8D%AE%E8%A1%A8%EF%BC%88.csv%EF%BC%89%E6%96%87%E4%BB%B6.zip)
-
-[py文件](https://github.com/meichunNewmedia/python_education/blob/master/education.py)
+[代码](https://github.com/meichunNewmedia/python_education/blob/master/final.zip)
 
 pythonanywhere：
 [http://meichun.pythonanywhere.com/](http://meichun.pythonanywhere.com/)
