@@ -9,7 +9,7 @@
 [html文件](https://github.com/meichunNewmedia/python_education/blob/master/HTML.zip)
 
 pythonanywhere：
-[http://meichun.pythonanywhere.com/](http://meichun.pythonanywhere.com/)
+[http://chenmeichun.pythonanywhere.com/](http://chenmeichun.pythonanywhere.com/)
 
 项目详情
 [了解更多](https://github.com/meichunNewmedia/python_education/blob/master/details.md)
